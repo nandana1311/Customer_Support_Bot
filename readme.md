@@ -40,6 +40,8 @@ This project is designed mainly for **learning purposes**, focusing on understan
 ```
 chatbot.py
 README.md
+app.py
+
 ```
 
 ---
@@ -70,7 +72,7 @@ pip install streamlit nltk fuzzywuzzy python-Levenshtein
 ### 4. Run the Application
 
 ```
-streamlit run chatbot.py
+streamlit run app.py
 ```
 
 ---
